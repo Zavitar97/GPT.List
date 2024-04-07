@@ -12,7 +12,6 @@ Please note, this repository is a community-driven project and may not list all 
 
 **Disclaimer: Users should exercise caution and evaluate the agents before use. Additionaly please note that some of these GPTs are still in experimental test phase.**
 
-🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
 ## Basic Guidelines
 There is some specific keywords that trigger some actions from GPTS; here are some of them to maximize their use:
@@ -164,10 +163,6 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
 Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
-
-See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors) who participate in this project.
-
-## ChatGPT Plus Subscription Requirement for using _GPTS_
 
 As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subscription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts).
 
